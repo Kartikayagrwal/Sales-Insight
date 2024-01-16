@@ -9,4 +9,3 @@ Diverse visualization types were leveraged to present insights effectively, incl
 
 
 
-[Sales.pdf](https://github.com/Knight-05/Sales-Insight/files/13944927/Sales.pdf)
