@@ -9,3 +9,6 @@ Diverse visualization types were leveraged to present insights effectively, incl
 
 
 
+
+
+![Sales_page-0001](https://github.com/Knight-05/Sales-Insight/assets/155028170/dcc9ee74-d637-42c4-9b7e-f98ef1e8548d)
